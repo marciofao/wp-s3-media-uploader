@@ -9,7 +9,7 @@ WP S3 Media Uploader is a WordPress plugin that allows you to seamlessly upload 
 - Creates a tracking table in the PostgreSQL database upon activation.
 - Checks S3 connection status to ensure successful uploads.
 - Returns the S3 URL for media files when requested.
-- Allow retro compatibility with plevious uploads using the [offload media plugin](https://wordpress.org/plugins/offload-media-cloud-storage/).
+- Allows retro compatibility with plevious uploads using the [offload media plugin](https://wordpress.org/plugins/offload-media-cloud-storage/).
 
 ## Installation
 
