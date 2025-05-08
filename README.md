@@ -1,6 +1,4 @@
-# README for WP S3 Media Uploader
-
-## Description
+# WP S3 Media Uploader
 
 WP S3 Media Uploader is a WordPress plugin that allows you to seamlessly upload media files to an Amazon S3 bucket whenever they are added to the media gallery. This plugin ensures that your media files are stored securely and efficiently in the cloud, providing a scalable solution for managing your media assets.
 
@@ -11,6 +9,7 @@ WP S3 Media Uploader is a WordPress plugin that allows you to seamlessly upload 
 - Creates a tracking table in the PostgreSQL database upon activation.
 - Checks S3 connection status to ensure successful uploads.
 - Returns the S3 URL for media files when requested.
+- Allow retro compatibility with plevious uploads using the [offload media plugin](https://wordpress.org/plugins/offload-media-cloud-storage/).
 
 ## Installation
 
@@ -37,6 +36,9 @@ Once configured, any media file uploaded to the WordPress media library will aut
 ## Support
 
 For support, please open an issue on the plugin's GitHub repository or contact the plugin author directly.
+
+## Knwon Issues
+- Wordpress native xml file content importing fails as the system cannot locate the local file. Disable the plugin if you need to use the xml import feature. Then re-enable it after the import is complete.
 
 ## Changelog
 
