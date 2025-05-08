@@ -1,0 +1,62 @@
+msgid "Amazon S3 Media Uploader"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Bucket Name"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Access Key"
+msgstr ""
+
+msgid "Secret Key"
+msgstr ""
+
+msgid "Upload Media to S3"
+msgstr ""
+
+msgid "S3 Connection Status"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Not Connected"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Media uploaded to S3 successfully."
+msgstr ""
+
+msgid "Failed to upload media to S3."
+msgstr ""
+
+msgid "S3 URL"
+msgstr ""
+
+msgid "Media File"
+msgstr ""
+
+msgid "Upload Error"
+msgstr ""
+
+msgid "Please enter a valid bucket name."
+msgstr ""
+
+msgid "Please enter a valid region."
+msgstr ""
+
+msgid "Please enter valid IAM credentials."
+msgstr ""
+
+msgid "Settings saved successfully."
+msgstr ""
+
+msgid "Failed to save settings."
+msgstr ""
